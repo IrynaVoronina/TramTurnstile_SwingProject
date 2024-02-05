@@ -1,0 +1,2 @@
+{"validityPeriod":"WEEK","amountOfRides":"TEN","currentAmountOfRides":0,"startDate":{"year":2024,"month":2,"day":4},"id":1,"classification":"TransitPass","type":"SCHOOL"}
+{"validityPeriod":"DAY","amountOfRides":"FIVE","currentAmountOfRides":5,"startDate":{"year":2024,"month":2,"day":4},"id":5,"classification":"TransitPass","type":"ORDINARY"}

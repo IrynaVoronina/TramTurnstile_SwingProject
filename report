@@ -1,0 +1,306 @@
+{
+  "status": "SUCCESS",
+  "description": "TransitPass was created !!! ID: 1",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 41,
+      "second": 31,
+      "nano": 701676600
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "TransitPass was created !!! ID: 5",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 45,
+      "second": 49,
+      "nano": 772775900
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "CumulativeCard was created !!! ID: 4",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 46,
+      "second": 11,
+      "nano": 833162100
+    }
+  }
+}
+{
+  "status": "FAILURE",
+  "description": "For input string: \"21,8\"",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 15,
+      "nano": 812547900
+    }
+  }
+}
+{
+  "status": "FAILURE",
+  "description": "For input string: \"21,8\"",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 21,
+      "nano": 297772900
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 44,
+      "nano": 759116200
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 45,
+      "nano": 526664600
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 46,
+      "nano": 127969400
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 46,
+      "nano": 308177300
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 46,
+      "nano": 470743600
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 46,
+      "nano": 627750700
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 46,
+      "nano": 782841900
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 46,
+      "nano": 939786300
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 47,
+      "nano": 99388800
+    }
+  }
+}
+{
+  "status": "SUCCESS",
+  "description": "The transitPass with ID 1 was used to pay the fare",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 47,
+      "nano": 256915200
+    }
+  }
+}
+{
+  "status": "FAILURE",
+  "description": "!! INVALID Amount Of Rides !!",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 47,
+      "nano": 466456400
+    }
+  }
+}
+{
+  "status": "FAILURE",
+  "description": "For input string: \"21,8\"",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 47,
+      "second": 53,
+      "nano": 825035500
+    }
+  }
+}
+{
+  "status": "FAILURE",
+  "description": "For input string: \"21,8\"",
+  "localDateTime": {
+    "date": {
+      "year": 2024,
+      "month": 2,
+      "day": 4
+    },
+    "time": {
+      "hour": 11,
+      "minute": 48,
+      "second": 3,
+      "nano": 278883300
+    }
+  }
+}
