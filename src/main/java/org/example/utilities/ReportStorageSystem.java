@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class ReportStorageSystem {
 
-    private final String fileName = "report";
+    private final String fileName = "TramTurnstileSystemFiles/report";
 
     public void saveReportToTheSystemFile(Report report) throws IOException {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName, true))) {

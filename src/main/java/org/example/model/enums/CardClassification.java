@@ -2,8 +2,8 @@ package org.example.model.enums;
 
 public enum CardClassification {
 
-    CumulativeCard("cumulative"),
-    TransitPass("transit");
+    CumulativeCard("TramTurnstileSystemFiles/cumulative"),
+    TransitPass("TramTurnstileSystemFiles/transit");
 
     private final String fileName;
 

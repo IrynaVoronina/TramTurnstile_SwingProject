@@ -5,7 +5,7 @@ import org.example.model.enums.TypeOfCard;
 
 public class CumulativeCard extends Card {
 
-    private final transient double fare = 1.2;
+    private final transient double fare = 3;
 
     private double money;
 
